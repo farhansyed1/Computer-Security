@@ -1,4 +1,5 @@
 # README
+Labs for the course *DD2395 Computer Security* at KTH.
 
 In this repository, we have resources for the following:
 - [Lab O (buffer-overflow)](buffer-overflow): Develop buffer-overflow attacks targeting vulnerable applications.
